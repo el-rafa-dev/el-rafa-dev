@@ -3,7 +3,7 @@
 </p> -->
 
 <h2 align="center">Olá! Me chamo Rafael 👋</h2>
-<hp align="center">
+<p align="center">
   Seja bem-vindo ao meu perfil do GitHub! Aqui compartilho meus projetos, estudos e experiências com desenvolvimento e sistemas Linux 🐧
 </p>
 
