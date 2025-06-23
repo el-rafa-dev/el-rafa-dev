@@ -12,7 +12,7 @@
 ## 📊 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-rafa-dev&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=el-rafa-dev&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br>
   
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-rafa-dev&theme=blue-green&show_icons=true&hide_border=true&layout=compact" /> -->
