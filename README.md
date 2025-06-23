@@ -24,7 +24,7 @@
 
 - 🧠 Linguagem própria: **Rhythin**
 - ⚙️ C, C++, Python, Assembly
-- 🐧 Linux (Arch Linux, Gentoo)
+- 🐧 Linux (Arch Linux)
 - 💻 CLI e baixo nível
 
 ---
