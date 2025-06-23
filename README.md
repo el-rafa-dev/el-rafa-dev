@@ -31,7 +31,7 @@
 
 ## 📬 Contato
 
-- Telegram: [Rafael @rafaprobr](https://t.me/@rafaprobr)
+- Telegram: [Rafael @rafaprobr](https://t.me/rafaprobr)
 - Email: [tampaseguraa@gmail.com](mailto:tampaseguraa@gmail.com)
 
 ---
