@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/el-rafa-dev.png" width="150" style="border-radius: 50%" alt="ElRafaDev Avatar">
-</p>
+</p> -->
 
 <h2 align="center">Olá! Me chamo Rafael 👋</h2>
 <hp align="center">
