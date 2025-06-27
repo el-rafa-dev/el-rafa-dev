@@ -35,8 +35,3 @@
 - Email: [tampaseguraa@gmail.com](mailto:tampaseguraa@gmail.com)
 
 ---
-
-<details>
-  <summary>💡 Curiosidade geek</summary>
-  Sobrevivi a um `pacman -Rns $(pacman -Qdth)` sem reinstalar o sistema. 😎🔥 Claro que por erro meu. 😅
-</details>
