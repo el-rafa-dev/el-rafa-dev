@@ -22,7 +22,6 @@
 
 ## 🚀 Tecnologias que uso e estudo
 
-- 🧠 Linguagem própria: **Rhythin**
 - ⚙️ C, C++, Python, Assembly
 - 🐧 Linux (Arch Linux)
 - 💻 CLI e baixo nível
