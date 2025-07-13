@@ -9,17 +9,17 @@
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=el-rafa-dev&theme=blueberry&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
 
 ---
-
+<!--
 ## 📊 Langs mais usada por mim
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-rafa-dev&theme=blueberry&show_icons=true&hide_border=false&layout=compact" alt="Most used languages" />
-</p>
+</p> -->
 
 ---
 
