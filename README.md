@@ -25,8 +25,8 @@
 
 ## 🚀 Tecnologias que uso e estudo
 
-- ⚙️ C, C++, Python, Assembly
-- 🐧 Linux (Arch Linux)
+- ⚙️ ```C```, ```C++```, ```Python```, ```Assembly```
+- 🐧 GNU/Linux (Arch Linux)
 - 💻 CLI e baixo nível
 
 ---
